@@ -10,29 +10,19 @@
   <h1>Sushi</h1>
   <img
     src="https://images.unsplash.com/photo-1611143669185-af224c5e3252?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80"
-    alt="plate of sushi">
+    alt="Sushi">
 
-  <h2>Strawberry shortcake is one of my favorite desserts!</h2>
-  <p>Little round shortcakes with strawberry gel, strawberries, whipped cream, and sugar.</p>
+  <h2></h2>
+  <p></p>
 
   <h3>Ingredients</h3>
   <ul>
-    <li>Shortcake</li>
-    <li>Strawberry gel</li>
-    <li>Chopped strawberries</li>
-    <li>Whipped cream</li>
-    <li>Sugar</li>
+    <li></li>
   </ul>
 
   <h3>Steps</h3>
   <ol>
-    <li>Chop strawberries</li>
-    <li>Place strawberries, gel, and teaspoon of sugar into a bowl</li>
-    <li>Mix well</li>
-    <li>Place shortcake onto plate and top with strawberry mixture</li>
-    <li>Top with whipped cream</li>
-    <li>Pour a glass of milk or favorite beverage</li>
-    <li>Enjoy</li>
+    <li></li>
   </ol>
 
 </body>
