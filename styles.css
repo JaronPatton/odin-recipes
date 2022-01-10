@@ -1,0 +1,30 @@
+img {
+  width: 20%;
+  height: auto;
+}
+
+#sush-size {
+  width: 35%;
+  height: auto;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
+
+#description {
+  font-weight: 900;
+  font-style: italic;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  background-color: turquoise;
+}
+
